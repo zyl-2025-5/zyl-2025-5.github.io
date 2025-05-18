@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zyl-2025-5.github.io/</loc>
-    <lastmod>2025-04-29T16:22:34+08:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,17 +15,13 @@
                 href="https://zyl-2025-5.github.io/"
                 />
   </url><url>
-    <loc>https://zyl-2025-5.github.io/p/newnewnew/</loc>
-    <lastmod>2025-04-29T16:22:34+08:00</lastmod>
-  </url><url>
-    <loc>https://zyl-2025-5.github.io/post/</loc>
-    <lastmod>2025-04-29T16:22:34+08:00</lastmod>
-  </url><url>
     <loc>https://zyl-2025-5.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zyl-2025-5.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zyl-2025-5.github.io/p/</loc>
   </url><url>
     <loc>https://zyl-2025-5.github.io/categories/</loc>
     <xhtml:link
@@ -38,6 +34,8 @@
                 hreflang="zh-cn"
                 href="https://zyl-2025-5.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://zyl-2025-5.github.io/post/</loc>
   </url><url>
     <loc>https://zyl-2025-5.github.io/tags/</loc>
     <xhtml:link
